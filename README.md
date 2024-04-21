@@ -8,8 +8,8 @@ The assignment was done as a team of 2 by [Aditya C (CS20B003)](https://github.c
 
 ### Contents
 
-1. [Code for Parts 1 & 2](./A3.ipynb)
-2. [Monte-Carlo REINFORCE](./A3_alternate_option.ipynb)
+1. [SMDPQL & IOQL with `Go-To-Color` based Options](./A3.ipynb)
+2. [Implementation and Evaluation of an alternate set of options](./A3_alternate_option.ipynb)
 3. [Report](./Report)
 
 The Report has also been submitted on Gradescope.
